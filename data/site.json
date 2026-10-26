@@ -1,0 +1,7 @@
+{
+  "seasons": [
+    { "key": "7th", "grade": "7th Grade", "label": "7TH GRADE FOOTBALL", "year": "2024" },
+    { "key": "8th", "grade": "8th Grade", "label": "8TH GRADE FOOTBALL", "year": "2025" },
+    { "key": "9th", "grade": "9th Grade", "label": "9TH GRADE FOOTBALL", "year": "2026" }
+  ]
+}
